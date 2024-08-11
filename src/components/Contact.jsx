@@ -125,7 +125,7 @@ const Contact = () => {
             rel="noopener noreferrer"
             className="flex flex-col items-center"
           >
-            <SiLeetcode className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <SiLeetcode className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
             <span className="text-sm text-gray-700 mt-2">LeetCode</span>
           </a>
           <a
@@ -134,7 +134,7 @@ const Contact = () => {
             rel="noopener noreferrer"
             className="flex flex-col items-center"
           >
-            <FaSquareGithub className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaSquareGithub className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
             <span className="text-sm text-gray-700 mt-2">GitHub</span>
           </a>
           <a
@@ -143,7 +143,7 @@ const Contact = () => {
             rel="noopener noreferrer"
             className="flex flex-col items-center"
           >
-            <FaLinkedin className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaLinkedin className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
             <span className="text-sm text-gray-700 mt-2">LinkedIn</span>
           </a>
           <a
@@ -152,16 +152,16 @@ const Contact = () => {
             rel="noopener noreferrer"
             className="flex flex-col items-center"
           >
-            <FaTwitter className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaTwitter className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
             <span className="text-sm text-gray-700 mt-2">Twitter</span>
           </a>
           <a
-            href="https://www.instagram.com/moink_25?igshid=MTV2bzUzY2U5aWZjMg=="
+            href="https://www.instagram.com/moink_25?igsh=MTMyMGd5aGhyaG8wMQ=="
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center"
           >
-            <FaInstagramSquare className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaInstagramSquare className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
             <span className="text-sm text-gray-700 mt-2">Instagram</span>
           </a>
         </div>

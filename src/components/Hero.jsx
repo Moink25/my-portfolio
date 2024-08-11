@@ -100,35 +100,35 @@ const Hero = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <SiLeetcode className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <SiLeetcode className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
           </a>
           <a
             href="https://github.com/Moink25/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaSquareGithub className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaSquareGithub className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
           </a>
           <a
             href="https://in.linkedin.com/in/moin-khan-a9b54528b"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaLinkedin className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaLinkedin className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
           </a>
           <a
             href="https://x.com/ThinkIt4u"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaTwitter className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaTwitter className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
           </a>
           <a
-            href="https://www.instagram.com/moink_25?igsh=MTV2bzUzY2U5aWZjMg=="
+            href="https://www.instagram.com/moink_25?igsh=MTMyMGd5aGhyaG8wMQ=="
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaInstagramSquare className="text-black text-3xl shadow-md shadow-[#ffdf00]" />
+            <FaInstagramSquare className="text-black text-3xl shadow-md shadow-[#ffdf00] hover:scale-110 duration-150" />
           </a>
         </div>
       </div>

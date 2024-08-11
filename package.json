@@ -1,7 +1,8 @@
 {
-  "name": "my-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://moink25.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -9,6 +10,7 @@
     "axios": "^1.7.2",
     "dotenv": "^16.4.5",
     "framer-motion": "^11.3.17",
+    "gh-pages": "^6.1.1",
     "http": "^0.0.1-security",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -22,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

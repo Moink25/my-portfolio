@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.30d6fd3d.css",
+    "main.js": "/portfolio/static/js/main.cea086e5.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/grilli.png": "/portfolio/static/media/grilli.481108090ae3a920e780.png",
+    "static/media/catalyst.png": "/portfolio/static/media/catalyst.b7691f3d45ac2c820af4.png",
+    "static/media/swadeshshop.png": "/portfolio/static/media/swadeshshop.7159717c06d66e9e2e63.png",
+    "static/media/techalchemy.png": "/portfolio/static/media/techalchemy.1a40101db754bef658e9.png",
+    "static/media/new_moin.png": "/portfolio/static/media/new_moin.6fbd1518e4394baeb7bc.png",
+    "static/media/m.png": "/portfolio/static/media/m.7d87c514cb339e66d8c6.png",
+    "static/media/gender.png": "/portfolio/static/media/gender.a7a7e554098e7ae2ff8a.png",
+    "static/media/data.png": "/portfolio/static/media/data.56a2c04bfdd1b47d043e.png",
+    "static/media/machine.webp": "/portfolio/static/media/machine.0217e80e8ff9f2c78edf.webp",
+    "index.html": "/portfolio/index.html",
+    "main.30d6fd3d.css.map": "/portfolio/static/css/main.30d6fd3d.css.map",
+    "main.cea086e5.js.map": "/portfolio/static/js/main.cea086e5.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d6fd3d.css",
+    "static/js/main.cea086e5.js"
+  ]
+}
